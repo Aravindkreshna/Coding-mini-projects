@@ -1,0 +1,42 @@
+
+.container{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#rollBtn{
+    font-size: 2em;
+    padding: 20px 100px;
+    background-color: brown;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
+
+#rollBtn:hover{
+    background-color: rgb(82, 5, 5);
+}
+
+.answerSection{
+    display: flex;
+    padding:  20px;
+
+}
+
+.ans{
+    margin: auto;
+    padding: 20px 40px;
+    font-size: 2.5em;
+    background-color: rgb(255, 203, 203);
+
+}
+.heading{
+    text-align: center;
+    background-color:blanchedalmond
+
+}
+.headSec{
+    font-size: 5em;
+    margin: 20px;
+}
