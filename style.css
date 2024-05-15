@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(./Digital-Clock/background.jpg);
+}
+#clock-countainer{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    color: rgb(241, 255, 240);
+    backdrop-filter: blur(5px);
+    text-align: center;
+    width: 100%;
+    background-color: hsla(0, 0%, 86%, 0.363);
+}
