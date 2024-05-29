@@ -13,7 +13,7 @@ body{
 }
 
 .mainHeading{
-    margin-top: 6rem;
+    margin-top: 4rem;
     font-size: 1rem;
 }
 
@@ -25,7 +25,7 @@ body{
 }
 
 .container{
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: bold;
     font-family:Arial, Helvetica, sans-serif;
     display: flex;
@@ -35,7 +35,7 @@ body{
 }
 
 .controls{
-    margin-top: 10rem;
+    margin-top: 5rem;
 }
 
 .controls button{
